@@ -59,6 +59,8 @@
 <p align="left">Contact Me:- +81 80 5052 6822 </p>
 
 ###
+
+## <h2> Stats <h2/> ##
 ###
 
 <div align="center">
