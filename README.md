@@ -51,7 +51,7 @@
 
 ###
 
-<p align="left">I am exploring next.js and typescript</p>
+
 
 ###
 ###
