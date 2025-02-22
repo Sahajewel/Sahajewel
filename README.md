@@ -43,11 +43,11 @@
 
 ###
 
-<h3 align="left">- 🌱 Currently learning **MERN stack**.
+<h3 align="left">- 🌱 Currently learning **MERN stack**.</h3>
 - 🖥️ I enjoy building web apps with **React**, **JavaScript**, and **Tailwind CSS**.
 - 🌏 Originally from **Bangladesh**, now based in **Japan** for the past **8 years**.
 - 📝 Fluent in **Japanese**, and I enjoy exploring new cultures and languages.
-- 💼 Actively looking for opportunities in **frontend development**.</h3>
+- 💼 Actively looking for opportunities in **frontend development**.
 
 ###
 
