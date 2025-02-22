@@ -60,7 +60,7 @@
 
 ###
 
-## <h2> Stats <h2/> ##
+##  Stats  ##
 ###
 
 <div align="center">
