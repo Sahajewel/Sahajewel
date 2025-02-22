@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">As a frontend developer, I am creative and detail-oriented professional who specializes in building the visual and interactive aspects of websites.</p>
+<p align="left">I'm a passionate React Developer with a strong background in frontend technologies. I transitioned from a civil engineer to a frontend developer, and I'm now focused on building dynamic and responsive web applications with React, JavaScript, and Tailwind CSS. With a keen eye for detail and user-centric design, I aim to create seamless and engaging user experiences.
 
 ###
 
