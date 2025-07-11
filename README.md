@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/CK3wZ1vc/Chat-GPT-Image-Jul-11-2025-05-42-56-PM.png" alt="Saha Jewel Kumar - Full Stack Developer banner"  width="100%" 
+  <img src="https://i.ibb.co/CK3wZ1vc/Chat-GPT-Image-Jul-11-2025-05-42-56-PM.png" alt="Saha Jewel Kumar - Full Stack Developer banner"  width="1000" 
     height="auto" />
 </div>
 
