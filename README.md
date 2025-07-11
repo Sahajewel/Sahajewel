@@ -44,9 +44,7 @@
 <br />
 <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?logo=openai&logoColor=white&style=for-the-badge" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge" />
+
 
 </div>
 
