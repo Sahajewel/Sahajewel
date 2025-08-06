@@ -1,4 +1,6 @@
-https://claude.ai/public/artifacts/8ef9d88b-8552-490f-9d08-5bfdb162a233
+<div>
+<image/ src="https://claude.ai/public/artifacts/8ef9d88b-8552-490f-9d08-5bfdb162a233">
+</div>
 <h1 align="center">Hi, I'm Saha Jewel Kumar 👋</h1>
 <p align="center">
   <strong>Full Stack Developer (MERN Stack)</strong> <br />
