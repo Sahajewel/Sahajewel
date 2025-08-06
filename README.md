@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/main/banner.svg" alt="Saha Jewel Kumar - Fullstack Developer">
+  <img src="https://github.com/Sahajewel/Sahajewel/blob/main/Chat-GPT-Image-Jul-11-2025-05-42-56-PM.png" alt="Saha Jewel Kumar - Fullstack Developer">
 </div>
 <h1 align="center">Hi, I'm Saha Jewel Kumar 👋</h1>
 <p align="center">
