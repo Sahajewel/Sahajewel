@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/CK3wZ1vc/Chat-GPT-Image-Jul-11-2025-05-42-56-PM.png" alt="Your banner" style="max-width: 100%; height: auto;" />
+  <img src="https://github.com/Sahajewel/Sahajewel/blob/main/Chat-GPT-Image-Jul-11-2025-05-42-56-PM.png?raw=true" alt="Your banner" style="max-width: 100%; height: auto;" />
 </div>
 
 
