@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://i.ibb.co/CK3wZ1vc/Chat-GPT-Image-Jul-11-2025-05-42-56-PM.png" alt="Saha Jewel Kumar - Full Stack Developer banner"  style="max-width: 100%; height: auto; display: block;" />
+  <img src="https://i.ibb.co/CK3wZ1vc/Chat-GPT-Image-Jul-11-2025-05-42-56-PM.png" alt="Your banner" style="max-width: 100%; height: auto;" />
 </div>
+
 
 <h1 align="center">Hi, I'm Saha Jewel Kumar 👋</h1>
 <p align="center">
