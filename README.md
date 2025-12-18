@@ -1,12 +1,21 @@
 <div align="center">
   <img src="https://github.com/Sahajewel/Sahajewel/blob/main/Chat-GPT-Image-Jul-11-2025-05-42-56-PM.png" alt="Saha Jewel Kumar - Fullstack Developer">
 </div>
-<h1 align="center">Hi, I'm Saha Jewel Kumar 👋</h1>
+<h1 align="center">Hey! I'm Saha Jewel Kumar 🚀</h1>
+
 <p align="center">
-  <strong>Full Stack Developer (MERN Stack)</strong> <br />
-  Crafting clean, scalable, and modern web applications
+  <strong>Full Stack Developer | Problem Solver</strong><br>
+  I bridge the gap between robust backend logic and intuitive frontend experiences.
 </p>
 
+<p align="center">
+  <b>Frontend:</b> Next.js, React, TypeScript, JavaScript <br>
+  <b>Backend:</b> Node.js, Express, Prisma, PostgreSQL, MongoDB
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Scalability%20%26%20Performance-blueviolet" />
+</p>
 ---
 
 ## 🧠 About Me
