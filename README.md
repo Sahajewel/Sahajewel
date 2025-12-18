@@ -32,7 +32,7 @@
 ### 📞 Let's Connect
 - **Location:** Tokyo/Japan 🇯🇵
 - **Phone:** [+81 80 5052 6822](tel:+818050526822)
-- **Email:** [jewelsaha072@gmail.com]
+- **Email:** jewelsaha072@gmail.com
 
 ---
 
@@ -54,16 +54,16 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-
-</div>
-
-<!-- Tools -->
-<br />
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
 <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
 
 
+
 </div>
+
+
+
+
 
 ---
 
