@@ -20,13 +20,19 @@
 
 ## 🧠 About Me
 
-- 🔁 Transitioned from Civil Engineering to Web Development
-- 💻 Skilled in building full stack applications using the MERN stack
-- 🌐 Based in 🇯🇵 Japan, originally from 🇧🇩 Bangladesh
-- 🌱 Currently focused on TypeScript, Clean Code, and Backend Architecture
-- 🤝 Open to new opportunities in full stack or frontend roles
-- 🗣️ Fluent in Japanese & English
-- 📞 Contact: +81 80 5052 6822
+- 🏗️ **The Transition:** Bringing the precision of **Civil Engineering** into the world of **Software Architecture**. I specialize in building robust, high-performance web applications.
+- 🚀 **Full Stack Expertise:** Proficient in the **Modern Web Stack** (Next.js, TypeScript, Prisma, PostgreSQL) with a strong foundation in MERN.
+- 🌍 **Global Perspective:** Originally from 🇧🇩 Bangladesh, currently based in 🇯🇵 **Japan**, thriving in a multicultural professional environment.
+- 🛠️ **Current Focus:** Deep-diving into **System Design, Clean Code (SOLID), and Scalable Backend Architecture**.
+- 💬 **Communication:** Fluent in **Japanese** and **English**, making me a great fit for international and cross-functional teams.
+- 🤝 **Open for Opportunities:** Actively looking for **Full Stack or Frontend** roles where I can contribute and grow.
+
+---
+
+### 📞 Let's Connect
+- **Location:** Tokyo/Japan 🇯🇵
+- **Phone:** [+81 80 5052 6822](tel:+818050526822)
+- **Email:** [jewelsaha072@gmail.com]
 
 ---
 
