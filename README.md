@@ -1,106 +1,257 @@
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Saha%20Jewel%20Kumar&fontSize=50&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20•%20Tokyo,%20Japan&descSize=20&descAlignY=55)
-  
-  ### 🇧🇩 → 🇯🇵 • Civil Engineer → Software Developer
-  *Building digital solutions with engineering precision*
-  
-  [![Portfolio](https://custom-icon-badges.demolab.com/badge/🌐-Portfolio-FF6B35?style=for-the-badge&logo=link)](https://www.sahajewel.com)
-  [![Email](https://custom-icon-badges.demolab.com/badge/📧-Contact_Me-EA4335?style=for-the-badge&logo=mail)](mailto:jewelsaha072@gmail.com)
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/💼-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sahajewelkumar)
-  
-  ![Visitors](https://komarev.com/ghpvc/?username=Sahajewel&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-</div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Jewel%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-## 🎯 **Professional Snapshot**
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Civil+Engineer+%E2%86%92+Full+Stack+Developer;Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+%E2%86%92+Japan+%F0%9F%87%AF%F0%9F%87%B5;Building+Digital+Solutions+with+Precision" alt="Typing SVG" />
+</h3>
 
-<table>
-  <tr>
-    <td width="50%">
-      
-### 👨‍💻 **Who I Am**
-A **Full Stack Developer** with a unique background in **Civil Engineering**, now architecting digital solutions instead of physical structures. My journey from **Bangladesh to Japan** has equipped me with cross-cultural adaptability and a global perspective on problem-solving.
+[![Portfolio](https://img.shields.io/badge/🌐_sahajewel.com-FF5722?style=for-the-badge&logoColor=white)](https://sahajewel.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahajewelkumar)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jewelsaha072@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/sahaJewelkumar)
 
-**Current Focus:** Seeking **Full Stack/Frontend Developer** roles in Japan where I can contribute to innovative projects and grow professionally.
-    </td>
-    <td width="50%">
-      
-### 🏆 **What I Offer**
-- 🏗️ **Engineering Mindset:** Systematic approach to software architecture
-- 🌐 **Bilingual Proficiency:** Fluent in Japanese (N2) & English
-- 🔄 **Adaptability:** Thriving in multicultural environments
-- 📈 **Performance Focus:** Scalable, efficient solutions
-- 🤝 **Team Collaboration:** Effective in cross-functional teams
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ **Technical Arsenal**
-
-### **Frontend Development**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,vercel,vite" />
-</div>
-
-### **Backend & Databases**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,mysql,graphql" />
-</div>
-
-### **DevOps & Tools**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,nginx,postman,vscode,figma" />
-</div>
-
----
-
-## 📊 **GitHub Analytics Dashboard**
-
-<div align="center">
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahajewel&show_icons=true&count_private=true&hide_title=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahajewel&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9) |
-|:---:|:---:|
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sahajewel&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sahajewel&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+<img src="https://komarev.com/ghpvc/?username=Sahajewel&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
 </div>
 
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 🚀 About Me
+
+```typescript
+const jewel = {
+  location: "🗼 Tokyo, Japan",
+  background: "🏗️ Civil Engineering",
+  role: "💻 Full Stack Developer",
+  languages: {
+    spoken: ["🇬🇧 English", "🇯🇵 Japanese", "🇧🇩 Bengali"],
+    programming: ["TypeScript", "JavaScript", "SQL"]
+  },
+  currentFocus: [
+    "Seeking Full Stack opportunities in Japan",
+    "Building scalable web applications",
+    "Exploring AI/ML integration"
+  ],
+  funFact: "I design software like structures - strong foundations first! 🏛️"
+};
+```
+
+<br/>
+<br/>
+
 ---
 
-## 🚀 **Featured Projects**
-
-> *Click on project titles to view repositories*
-
-### **[🔥 Project Name 1](https://github.com/Sahajewel/project1)**
-![Next.js](https://img.shields.io/badge/Next.js-13-black?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?style=flat-square)
-
-A full-stack application with real-time features and scalable architecture.
-
----
-
-### **[🎯 Project Name 2](https://github.com/Sahajewel/project2)**
-![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-20-green?style=flat-square)
-![MongoDB](https://img.shields.io/badge/MongoDB-7.0-green?style=flat-square)
-
-E-commerce platform with payment integration and admin dashboard.
-
----
-
-## 📈 **Career Journey**
+### 🎯 What I'm Up To
 
 ```mermaid
-timeline
-    title My Professional Evolution
-    2015-2019 : 🏗️ B.Sc. in Civil Engineering<br>Bangladesh University
-    2020-2021 : 💻 Self-Taught Coding<br>Full Stack Development
-    2022-2023 : 🚀 Professional Developer<br>Built Production Applications
-    2023-Present : 🇯🇵 Japan Relocation<br>Seeking Tech Opportunities
+mindmap
+  root((Jewel's Focus))
+    Career
+      Job Hunting in Japan
+      Networking
+      Portfolio Building
+    Learning
+      System Design
+      AI/ML Integration
+      Performance Optimization
+    Building
+      Web Applications
+      Open Source Projects
+      Side Projects
+```
+
+<div align="center">
+
+### 💼 Open to Opportunities • 🤝 Available for Freelance • 🌟 Let's Collaborate
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+#### Frontend
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,html,css,tailwind,redux" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+#### Backend
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,prisma,vercel" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+#### Tools
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,npm" />
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sahajewel&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=FFFFFF&custom_title=Jewel's%20GitHub%20Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sahajewel&layout=compact&langs_count=8&theme=algolia&hide_border=true&border_radius=15&bg_color=0D1117&title_color=3B82F6&text_color=FFFFFF"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahajewel&theme=algolia&hide_border=true&border_radius=15&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6&sideLabels=FFFFFF&dates=8B949E"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sahajewel&theme=algolia&hide_border=true"/>
+</div>
+
+---
+
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sahajewel&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
+</div>
+
+---
+
+### 💡 What I Build
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
+<br/><b>Web Apps</b>
+<br/><sub>Full-stack applications with modern frameworks</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
+<br/><b>UI/UX</b>
+<br/><sub>Beautiful, responsive interfaces</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"/>
+<br/><b>APIs</b>
+<br/><sub>RESTful backend services</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+<br/><b>Databases</b>
+<br/><sub>Efficient data modeling</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahajewel&bg_color=0d1117&color=3b82f6&line=3b82f6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+</div>
+
+---
+
+### 🎯 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/Sahajewel?tab=repositories">
+  <img src="https://img.shields.io/badge/🔍_Explore_All_Projects-3B82F6?style=for-the-badge&logoColor=white" />
+</a>
+
+<br/><br/>
+
+> 💡 Pin your best repositories below to showcase them here!
+
+</div>
+
+---
+
+### 📫 Let's Connect
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
+
+<br/>
+
+### 🌏 Based in Tokyo, Japan
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="48"/>
+<br/><b>Email</b>
+<br/><a href="mailto:jewelsaha072@gmail.com">jewelsaha072@gmail.com</a>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="48"/>
+<br/><b>LinkedIn</b>
+<br/><a href="https://linkedin.com/in/sahajewelkumar">@sahajewelkumar</a>
+</td>
+<td align="center" width="33%">
+<img src="https://user-images.githubusercontent.com/74038190/216122003-15d1075a-5f01-4cad-b58f-2714bcebe649.png" width="48"/>
+<br/><b>Phone</b>
+<br/>+81 80 5052 6822
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💼 Open for Opportunities | 🤝 Available for Freelance | 🌟 Let's Collaborate!
+
+<br/>
+
+```
+💡 "Engineering precision meets creative innovation"
+🏗️ From building bridges to building applications
+🚀 Turning complex problems into elegant solutions
+```
+
+<br/>
+
+### ⭐ If you like my work, drop a star on my repos!
+
+[![GitHub followers](https://img.shields.io/github/followers/Sahajewel?label=Follow&style=social)](https://github.com/Sahajewel)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🙏 Thanks for stopping by!
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />&nbsp;
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
