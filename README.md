@@ -97,7 +97,7 @@ mindmap
 
 #### Tools
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </div>
 
 </td>
