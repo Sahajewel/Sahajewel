@@ -307,29 +307,29 @@ mindmap
 
 </div>
 
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="48"/>
-<br/><b>Email</b>
-<br/><sub><a href="mailto:jewelsaha072@gmail.com">Contact</a></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="48"/>
-<br/><b>LinkedIn</b>
-<br/><sub><a href="https://linkedin.com/in/sahajewelkumar">Connect</a></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="48"/>
-<br/><b>Portfolio</b>
-<br/><sub><a href="https://portfolio-frontend-five-blond.vercel.app">Visit</a></sub>
-</td>
-<td align="center" width="25%">
-  <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="48"/>
-  <br/><b>Phone</b>
-  <br/><sub>+81 80 5052 6822</sub>
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" width="48"/>
+      <br/><b>Email</b>
+      <br/><sub><a href="mailto:jewelsaha072@gmail.com">Contact</a></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="48"/>
+      <br/><b>LinkedIn</b>
+      <br/><sub><a href="https://linkedin.com/in/sahajewelkumar">Connect</a></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/235294013-33299763-cd64-4e94-9195-23194a20b080.gif" width="48"/>
+      <br/><b>Phone</b>
+      <br/><sub><a href="tel:+818050526822">Call Me</a></sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="48"/>
+      <br/><b>Portfolio</b>
+      <br/><sub><a href="https://portfolio-frontend-five-blond.vercel.app">Visit</a></sub>
+    </td>
+  </tr>
 </table>
 
 <br/>
