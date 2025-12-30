@@ -157,12 +157,12 @@ const jewel = {
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahajewel&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA&sideLabels=FFFFFF&dates=8B949E"/>
+
 
 <summary><b>📅 Contribution Graph</b></summary>
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahajewel&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="100%"/>
+
 
 
 <br/>
