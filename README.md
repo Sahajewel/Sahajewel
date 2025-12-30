@@ -185,16 +185,7 @@ const jewel = {
 
 </details>
 
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
-<br/>
 
-<picture>
-  <source media="(max-width: 768px)" srcset="https://github-profile-trophy.vercel.app/?username=Sahajewel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3&row=2"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahajewel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
-</picture>
-
-</details>
 
 </div>
 
