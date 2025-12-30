@@ -329,6 +329,11 @@ mindmap
       <br/><b>Portfolio</b>
       <br/><sub><a href="https://portfolio-frontend-five-blond.vercel.app">Visit</a></sub>
     </td>
+    <td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-33299763-cd64-4e94-9195-23194a20b080.gif" width="48"/>
+<br/><b>Phone</b>
+<br/><sub><a href="tel:+818050526822">Call Me</a></sub>
+</td>
   </tr>
 </table>
 
