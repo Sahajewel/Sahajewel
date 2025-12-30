@@ -314,11 +314,7 @@ mindmap
       <br/><b>Email</b>
       <br/><sub><a href="mailto:jewelsaha072@gmail.com">Contact</a></sub>
     </td>
-    <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="48"/>
-      <br/><b>Portfolio</b>
-      <br/><sub><a href="https://portfolio-frontend-five-blond.vercel.app">Visit</a></sub>
-    </td>
+   
     <td align="center" width="25%">
       <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="48"/>
       <br/><b>LinkedIn</b>
