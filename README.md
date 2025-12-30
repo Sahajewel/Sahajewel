@@ -148,7 +148,7 @@ const jewel = {
 
 ## 📊 GitHub Analytics
 
-<details open>
+
 
 <br/>
 
