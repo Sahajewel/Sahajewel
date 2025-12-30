@@ -325,9 +325,9 @@ mindmap
 <br/><sub><a href="https://portfolio-frontend-five-blond.vercel.app">Visit</a></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/216122003-15d1075a-5f01-4cad-b58f-2714bcebe649.png" width="48"/>
-<br/><b>Phone</b>
-<br/><sub>+81 80 5052 6822</sub>
+  <img src="https://cdn-icons-png.flaticon.com/512/724/724664.png" width="48"/>
+  <br/><b>Phone</b>
+  <br/><sub>+81 80 5052 6822</sub>
 </td>
 </tr>
 </table>
