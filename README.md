@@ -217,15 +217,6 @@ mindmap
 
 <br/>
 
-### 💼 Open for Opportunities | 🤝 Available for Freelance | 🌟 Let's Collaborate!
-
-<br/>
-
-```
-💡 "Engineering precision meets creative innovation"
-🏗️ From building bridges to building applications
-🚀 Turning complex problems into elegant solutions
-```
 
 <br/>
 
