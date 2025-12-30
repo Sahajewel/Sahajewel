@@ -153,8 +153,6 @@ const jewel = {
 <br/>
 
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sahajewel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF"/>
-
 
 
 <br/>
