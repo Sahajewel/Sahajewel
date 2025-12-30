@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Jewel%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Civil+Engineer+%E2%86%92+Full+Stack+Developer;Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+%E2%86%92+Japan+%F0%9F%87%AF%F0%9F%87%B5;Building+Digital+Solutions+with+Precision" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines+%E2%86%92+Full+Stack+Developer;Bangladesh+%F0%9F%87%A7%F0%9F%87%A9+%E2%86%92+Japan+%F0%9F%87%AF%F0%9F%87%B5;Building+Digital+Solutions+with+Precision" alt="Typing SVG" />
 </h3>
 
 [![Portfolio](https://img.shields.io/badge/🌐_portfolio-FF5722?style=for-the-badge&logoColor=white)](https://portfolio-frontend-five-blond.vercel.app)
@@ -24,7 +24,6 @@
 ```typescript
 const jewel = {
   location: "🗼 Tokyo, Japan",
-  background: "🏗️ Civil Engineering",
   role: "💻 Full Stack Developer",
   languages: {
     spoken: ["🇬🇧 English", "🇯🇵 Japanese", "🇧🇩 Bengali"],
@@ -97,7 +96,7 @@ mindmap
 
 #### Tools
 <div align="center">  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </div>
 
 </td>
