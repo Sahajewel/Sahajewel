@@ -166,10 +166,7 @@ const jewel = {
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahajewel&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="100%"/>
 
-</details>
 
-<details>
-<summary><b>🏆 GitHub Trophies</b></summary>
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Sahajewel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
