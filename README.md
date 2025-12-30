@@ -155,17 +155,12 @@ const jewel = {
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sahajewel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF&custom_title=Jewel's%20GitHub%20Stats&ring_color=667EEA"/>
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sahajewel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF"/>
 
-</details>
 
-<details open>
 
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahajewel&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA&sideLabels=FFFFFF&dates=8B949E"/>
 
-</details>
-
-<details open>
 <summary><b>📅 Contribution Graph</b></summary>
 <br/>
 
