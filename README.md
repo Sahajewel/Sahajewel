@@ -124,13 +124,7 @@ mindmap
 
 ---
 
-### 🏆 Achievements
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sahajewel&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10"/>
-</div>
-
----
 
 ### 💡 What I Build
 
