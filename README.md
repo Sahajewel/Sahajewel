@@ -148,23 +148,33 @@ const jewel = {
 
 ## 📊 GitHub Analytics
 
-
-
+<details open>
+<summary><b>📈 Contribution Stats</b></summary>
 <br/>
 
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sahajewel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF&custom_title=Jewel's%20GitHub%20Stats&ring_color=667EEA"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sahajewel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF"/>
 
+</details>
 
-
+<details open>
+<summary><b>🔥 Streak Stats</b></summary>
 <br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahajewel&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA&sideLabels=FFFFFF&dates=8B949E"/>
 
+</details>
 
+<details open>
 <summary><b>📅 Contribution Graph</b></summary>
 <br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sahajewel&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="100%"/>
 
+</details>
 
-
+<details>
+<summary><b>🏆 GitHub Trophies</b></summary>
 <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Sahajewel&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
