@@ -54,12 +54,12 @@ mindmap
       Networking
       Portfolio Building
     Learning
-      System Design
-      AI/ML Integration
+     
+    
       Performance Optimization
     Building
       Web Applications
-      Open Source Projects
+    
       Side Projects
 ```
 
