@@ -158,7 +158,7 @@ const jewel = {
 </details>
 
 <details open>
-<summary><b>🔥 Streak Stats</b></summary>
+
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sahajewel&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&ring=667EEA&fire=667EEA&currStreakLabel=667EEA&sideLabels=FFFFFF&dates=8B949E"/>
