@@ -81,16 +81,6 @@ const jewel = {
 
 ---
 
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sahajewel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF" width="49%"/>
-
-
-</div>
-
----
 
 ### 💼 What I Build
 
