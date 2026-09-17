@@ -34,8 +34,8 @@ const jewel = {
   },
 
   currentGoal: "Full Stack role in Japan 🚀",
-  currentlyLearning: "AI-Augmented Workflows & LLM Integration"
-openTo: ["Full-time Full Stack / Frontend Roles", "AI-driven Projects"]
+  currentlyLearning: "AI-Augmented Workflows & LLM Integration",
+  openTo: ["Full-time Full Stack / Frontend Roles", "AI-driven Projects"]
 };
 ```
 
